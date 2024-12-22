@@ -334,5 +334,19 @@ namespace Assignment
         //}
         #endregion
 
+        #region Q5 Create a function named "ChangeChar" to modify a letter in a certain position (0 based) of a string, replacing it with a different letter .
+        //static string ChangeChar(string Str, char C, int Position = 0)
+        //{
+        //    if (Position < 0 || Position >= Str.Length)
+        //    {
+        //        Console.WriteLine("Invalid position.");
+        //        return Str;
+        //    }
+        //    Char[] CharArr = Str.ToCharArray();
+        //    CharArr[Position] = C;
+        //    return new string(CharArr);
+        //}
+        #endregion
+
     }
 }
