@@ -201,6 +201,43 @@ namespace Assignment
             //}
             #endregion
 
+            #region Q27 Write a program to create two multidimensional arrays of same size. Accept value from user and store them in first array. Now copy all the elements of first array on second array and print second array.
+            //Console.Write("Enter the number of rows: ");
+            //int.TryParse(Console.ReadLine(), out int rows);
+            //Console.Write("Enter the number of columns: ");
+            //int.TryParse(Console.ReadLine(), out int Cols);
+
+            //int[,] firstArray = new int[rows, Cols];
+            //int[,] secondArray = new int[rows, Cols];
+
+            //Console.WriteLine("Enter values for the first array:");
+            //for (int i = 0; i < rows; i++)
+            //{
+            //    for (int j = 0; j < Cols; j++)
+            //    {
+            //        Console.Write($"Element [{i}, {j}]: ");
+            //        int.TryParse(Console.ReadLine(), out firstArray[i, j]);
+            //    }
+            //}
+
+            //for (int i = 0; i < rows; i++)
+            //{
+            //    for (int j = 0; j < Cols; j++)
+            //    {
+            //        secondArray[i, j] = firstArray[i, j];
+            //    }
+            //}
+
+            //for (int i = 0; i < rows; i++)
+            //{
+            //    for (int j = 0; j < Cols; j++)
+            //    {
+            //        Console.Write($"{secondArray[i, j]}");
+            //    }
+            //    Console.WriteLine();
+            //}
+            #endregion
+
         }
 
         /* ----------------Functions ---------------*/
