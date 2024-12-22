@@ -246,6 +246,29 @@ namespace Assignment
             //    Console.Write($"{Nums[i]} ");
             //}
             #endregion
+
+            /*Functions*/
+            #region Q1 Explain the difference between passing (Value type parameters) by value and by reference then write a suitable c# example.
+            /**
+             * Pass by value:
+             * when you pass variable by value u just copy the value of it and use it
+             * any modifying doesn't change original value
+             */
+
+            //int x = 5, y = 10;
+            //Swaps_PassByValue(x, y);
+            //Console.WriteLine($"x = {x} and  y = {y}"); //5  10
+
+            ///**
+            // * Pass by Ref:
+            // * it doesn't make a variable in function stack frame
+            // * it only refer to the original address of variables 
+            // * any modifying change original value
+            // */
+
+            //Swaps_PassByReference(ref x, ref y);
+            //Console.WriteLine($"x = {x} and  y = {y}"); //10  5
+            #endregion
         }
 
         /* ----------------Functions ---------------*/
