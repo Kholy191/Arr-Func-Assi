@@ -136,6 +136,20 @@ namespace Assignment
             //Console.WriteLine($"Max Number is {Max} and Min is {Min}");
             #endregion
 
+            #region Q24 Write a program in C# Sharp to find the second largest element in an array.
+            //int[] Nums1 = new int[] { 1, 1, 7, 10, 1, 4, 5, 7, 10 };
+            //int Max = Nums1[0], Previos = Nums1[0];
+
+            //for (int i = 0; i < Nums1.Length; i++)
+            //{
+            //    if (Nums1[i] > Max)
+            //    {
+            //        Previos = Max;
+            //        Max = Nums1[i];
+            //    }
+            //}
+            //Console.WriteLine($"sec Max Number is {Previos}");
+            #endregion
 
         }
 
