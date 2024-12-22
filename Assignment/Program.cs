@@ -238,6 +238,14 @@ namespace Assignment
             //}
             #endregion
 
+            #region Q28 Write a Program to Print One Dimensional Array in Reverse Order
+            //int[] Nums = new int[] { 1, 6, 7, 1, 4, 7 };
+
+            //for (int i = Nums.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write($"{Nums[i]} ");
+            //}
+            #endregion
         }
 
         /* ----------------Functions ---------------*/
