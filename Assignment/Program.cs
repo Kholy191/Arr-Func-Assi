@@ -300,5 +300,27 @@ namespace Assignment
         //}
         #endregion
 
+        #region Q3 Create a function named "IsPrime", which receives an integer number and retuns true if it is prime, or false if it is not .
+        //static void IsPrime(int num)
+        //{
+        //    if (num <= 1)
+        //    {
+        //        Console.WriteLine("Not Prime");
+        //        return;  
+        //    }
+
+        //    for (int i = 2; i <= Math.Sqrt(num); i++)
+        //    {
+        //        if (num % i == 0) 
+        //        {
+        //            Console.WriteLine("Not Prime");
+        //            return;  
+        //        }
+        //    }
+
+        //    Console.WriteLine("Prime");
+        //}
+        #endregion
+
     }
 }
