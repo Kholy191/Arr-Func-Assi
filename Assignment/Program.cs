@@ -151,6 +151,34 @@ namespace Assignment
             //Console.WriteLine($"sec Max Number is {Previos}");
             #endregion
 
+            #region Q25 Consider an Array of Integer values with size N, having values as in this Example
+            //int[] Nums = new int[8];
+            //int LongestDis = 0;
+            //for (int i = 0; i < Nums.Length; i++)
+            //{
+            //    Console.WriteLine($"enter value of index{i}");
+            //    int.TryParse(Console.ReadLine(), out Nums[i]);
+            //}
+            //if (Nums[0] == Nums[Nums.Length - 1])
+            //    Console.WriteLine(Nums.Length);
+            //else
+            //{
+            //    for (int i = 0; i < Nums.Length; i++)
+            //    {
+            //        for (int j = 0; j < Nums.Length; j++)
+            //        {
+            //            if (Nums[i] == Nums[j])
+            //            {
+            //                if ((j - i - 1) > LongestDis)
+            //                {
+            //                    LongestDis = j - i - 1;
+            //                }
+            //            }
+            //        }
+            //    }
+            //    Console.WriteLine($"Longest Distance is {LongestDis}");
+            //}
+            #endregion
         }
 
         /* ----------------Functions ---------------*/
