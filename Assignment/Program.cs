@@ -64,6 +64,65 @@ namespace Assignment
             //}
             #endregion
 
+            #region Q22 Write a program in C# Sharp to count the frequency of each element of an array
+            //int[] Nums1 = new int[] { 1, 1, 7, 10, 1, 4, 5, 7 , 10};
+            //int[] NumscheckArr = new int[Nums1.Length];
+            //for (int i = 0; i < Nums1.Length; i++)
+            //{
+            //    Boolean Checker = false;
+            //    for (int j = 0; j < Nums1.Length; j++)
+            //    {
+            //        if (Nums1[i] == NumscheckArr[j])
+            //        {
+            //            Checker = true;
+            //            break;
+            //        }
+            //    }
+            //    if (Checker)
+            //    {
+            //        continue;
+            //    }
+            //    NumscheckArr[i] = Nums1[i];
+            //    int count = 0;
+            //    for (int j = 0; j < Nums1.Length; j++)
+            //    {
+            //        if (Nums1[i] == Nums1[j])
+            //        {
+            //            count++;
+            //        }
+            //    }
+            //    Console.WriteLine($"{Nums1[i]} Freq is {count}");
+            //}
+
+            //Console.WriteLine("---------------------------------------------");
+            //Console.WriteLine("Another Solution with enhanced time complexty");
+
+            ///*Another Solution with enhanced time complexty*/ /*------------------*/
+
+            //Array.Sort(Nums1);
+            //int CurrentNum = Nums1[0];
+            //int count2 = 0;
+
+            //for (int i = 0; i < Nums1.Length; i++)
+            //{
+            //    if (Nums1[i] == CurrentNum)
+            //    {
+            //        count2++;
+            //        if (i == Nums1.Length - 1)
+            //            Console.WriteLine($"Num1 = {CurrentNum} is {count2}");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"Num1 = {CurrentNum} is {count2}");
+            //        CurrentNum = Nums1[i];
+            //        count2 = 1;
+            //        if (i == Nums1.Length - 1)
+            //            Console.WriteLine($"Num1 = {CurrentNum} is {count2}");
+            //    }
+            //}
+            #endregion
+
+
         }
 
         /* ----------------Functions ---------------*/
