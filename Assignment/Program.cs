@@ -287,5 +287,18 @@ namespace Assignment
         //}
         #endregion
 
+        #region Q2 Write a program in C# Sharp to create a function to calculate the sum of the individual digits of a given number.
+        //public static int SumInd(int x)
+        //{
+        //    int sum = 0;
+        //    while (x != 0)
+        //    {
+        //        sum += x % 10;
+        //        x /= 10;
+        //    }
+        //    return sum;
+        //}
+        #endregion
+
     }
 }
