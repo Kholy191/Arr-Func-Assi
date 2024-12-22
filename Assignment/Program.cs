@@ -271,6 +271,21 @@ namespace Assignment
             #endregion
         }
 
-        /* ----------------Functions ---------------*/
+        #region Q1 Functions
+        //public static void Swaps_PassByValue(int x, int y)
+        //{
+        //    int temp = x;
+        //    x = y;
+        //    y = temp;
+        //}
+
+        //public static void Swaps_PassByReference(ref int x, ref int y)
+        //{
+        //    int temp = x;
+        //    x = y;
+        //    y = temp;
+        //}
+        #endregion
+
     }
 }
