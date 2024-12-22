@@ -322,5 +322,17 @@ namespace Assignment
         //}
         #endregion
 
+        #region Q4 Create an iterative (non-recursive) function to calculate the factorial of the number specified as parameter .
+        //static int FactorialNum(int num)
+        //{
+        //    int factorial = 1;
+        //    for (int i = 1; i <= num; i++)
+        //    {
+        //        factorial *= i;
+        //    }
+        //    return factorial;
+        //}
+        #endregion
+
     }
 }
