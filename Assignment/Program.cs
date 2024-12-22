@@ -179,6 +179,28 @@ namespace Assignment
             //    Console.WriteLine($"Longest Distance is {LongestDis}");
             //}
             #endregion
+
+            #region Q26 Given a list of space separated words, reverse the order of the words.
+            //string input;
+            //for (; ; )
+            //{
+            //    input = Console.ReadLine();
+            //    if (input == null)
+            //    {
+            //        Console.WriteLine("You Entered Wrong Nums");
+            //    }
+            //    else
+            //        break;
+            //}
+
+            //string[] strings = input.Split(" ");
+
+            //for (int i = strings.Length - 1; i >= 0; i--)
+            //{
+            //    Console.Write($"{strings[i]} ");
+            //}
+            #endregion
+
         }
 
         /* ----------------Functions ---------------*/
